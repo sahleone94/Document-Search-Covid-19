@@ -22,7 +22,7 @@ Keyword Search,Cosine Similarity and Topic Modeling of data from COVID-19 Open R
 ## Results Summary 
 
 ## Acknowledgements 
-This dataset was created by the Allen Institute for AI in partnership with the Chan Zuckerberg Initiative, Georgetown University’s Center for Security and Emerging Technology, Microsoft Research, IBM, and the National Library of Medicine - National Institutes of Health, in coordination with The White House Office of Science and Technology Policy.
+This [dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) was created by the Allen Institute for AI in partnership with the Chan Zuckerberg Initiative, Georgetown University’s Center for Security and Emerging Technology, Microsoft Research, IBM, and the National Library of Medicine - National Institutes of Health, in coordination with The White House Office of Science and Technology Policy.
 
-
+Created as part ofthe Udacity Data Scientist Nanodegree Program.
 
