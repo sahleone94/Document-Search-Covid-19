@@ -22,7 +22,9 @@ Keyword Search, Cosine Similarity and Topic Modeling
 The functions are located in the Sifting Through Covid-19 Articles.ipynb.
 
 ## Results Summary 
-Implemented  Keyword Search and Cosine Similarity functions and Topic Modeling to sift through the data COVID-19 Open Research Dataset Challenge (CORD-19)
+Implemented  Keyword Search and Cosine Similarity functions and Topic Modeling to sift through the data COVID-19 Open Research Dataset Challenge (CORD-19)  
+The disscuion of the code can be found in a blog post [here](https://medium.com/@rhys.jervis94/sifting-through-covid-19-articles-66766ed02eab).
+
 ## Acknowledgements 
 This [dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) was created by the Allen Institute for AI in partnership with the Chan Zuckerberg Initiative, Georgetown University’s Center for Security and Emerging Technology, Microsoft Research, IBM, and the National Library of Medicine - National Institutes of Health, in coordination with The White House Office of Science and Technology Policy.
 
