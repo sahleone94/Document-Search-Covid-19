@@ -19,14 +19,23 @@ Therefore, I implemented different methods to sift through the articles.
 Keyword Search, Cosine Similarity and Topic Modeling 
 
 ## File Descriptions
-The functions are located in the Sifting Through Covid-19 Articles.ipynb.
+sifting-through-covid-19-articles.ipynb:  
+  Contains a class and functions to extract load and transform data, Keyword Search, create a Cosine Similarity Matrix, and perform Topic Modeling.
 
 ## Results Summary 
 Implemented  Keyword Search and Cosine Similarity functions and Topic Modeling to sift through the data COVID-19 Open Research Dataset Challenge (CORD-19)  
-The disscuion of the code can be found in a blog post [here](https://medium.com/@rhys.jervis94/sifting-through-covid-19-articles-66766ed02eab).
+The discussion of the code can be found in a blog post [here](https://medium.com/@rhys.jervis94/sifting-through-covid-19-articles-66766ed02eab).
+
+## Data
+This [dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) was created by the Allen Institute for AI in partnership with the Chan Zuckerberg Initiative, Georgetown University’s Center for Security and Emerging Technology, Microsoft Research, IBM, and the National Library of Medicine - National Institutes of Health, in coordination with The White House Office of Science and Technology Policy. It is updated regularly.
+
+It contains a corpus of, "over 200,000 scholarly articles, including over 94,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses". Although the documents have the structure define by json_schema.txt. However, as each article has varying authors, sections, missing data, etc, custom functions had to be created. 
+
+Given the large size of the corpus, a subset will be examined.
+
+The number of topics chosen for the Latent Dirichlet Allocation (LDA) is a hyperparameter and is usually chosen through trial and error. KMeans is used to determine  a starting point 
 
 ## Acknowledgements 
-This [dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) was created by the Allen Institute for AI in partnership with the Chan Zuckerberg Initiative, Georgetown University’s Center for Security and Emerging Technology, Microsoft Research, IBM, and the National Library of Medicine - National Institutes of Health, in coordination with The White House Office of Science and Technology Policy.
-
 Created as part of the Udacity Data Scientist Nanodegree Program.
+
 
