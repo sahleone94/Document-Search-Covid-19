@@ -19,9 +19,8 @@ Therefore, I implemented different methods to sift through the articles.
 Keyword Search, Cosine Similarity and Topic Modeling 
 
 ## File Descriptions
-sifting-through-covid-19-articles.ipynb:  
-  Contains a class and functions to extract load and transform data, Keyword Search, create a Cosine Similarity Matrix, and perform Topic Modeling.
-
+1. sifting-through-covid-19-articles.ipynb: This contains a class and functions to extract load and transform data, Keyword Search,      create a Cosine Similarity Matrix, and perform Topic Modeling.
+2. Data Overview: This contains an overview of the data
 ## Results Summary 
 Implemented  Keyword Search and Cosine Similarity functions and Topic Modeling to sift through the data COVID-19 Open Research Dataset Challenge (CORD-19)  
 The discussion of the code can be found in a blog post [here](https://medium.com/@rhys.jervis94/sifting-through-covid-19-articles-66766ed02eab).
